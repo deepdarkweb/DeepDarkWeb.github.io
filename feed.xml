@@ -3,12 +3,35 @@
     <title>deepdarkweb</title>
     <link href="https://DeepDarkWeb.github.io/feed.xml" rel="self" />
     <link href="https://DeepDarkWeb.github.io" />
-    <updated>2018-06-14T16:38:40+02:00</updated>
+    <updated>2018-06-14T23:47:08+02:00</updated>
     <author>
         <name>DeepDarkWeb</name>
     </author>
     <id>https://DeepDarkWeb.github.io</id>
 
+    <entry>
+        <title>Buy and Sell CryptoCurrencies on OpenBazaar</title>
+        <author>
+            <name>DeepDarkWeb</name>
+        </author>
+        <link href="https://DeepDarkWeb.github.io/buy-and-sell-cryptocurrencies-on-openbazaar/"/>
+        <id>https://DeepDarkWeb.github.io/buy-and-sell-cryptocurrencies-on-openbazaar/</id>
+            <category term="OpenBazaar"/>
+            <category term="Marketplace"/>
+            <category term="Decentralization"/>
+            <category term="CryptoCurrency Exchange"/>
+            <category term="CryptoCurrency"/>
+            <category term="BTC"/>
+
+        <updated>2018-06-14T23:13:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://DeepDarkWeb.github.io/media/posts/8/cBuy-and-Sell-CryptoCurrencies-on-OpenBazaar-Cryptolistings.gif" alt="Buy and Sell CryptoCurrencies on OpenBazaar" />
+                    OpenBazaar supports buying and selling CryptoCurrencies since version 2.2.0 was released. The ability to buy and sell CryptoCurrencies was announced as the biggest new feature of this release, in which Vendors are able to use a special new listing type to sell CryptoCurrencies on OpenBazaar.Vendors&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How to install Tor on Windows, macOS, iOS, Android and Linux</title>
         <author>
