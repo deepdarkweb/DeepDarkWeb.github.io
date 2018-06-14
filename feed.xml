@@ -3,7 +3,7 @@
     <title>deepdarkweb</title>
     <link href="https://DeepDarkWeb.github.io/feed.xml" rel="self" />
     <link href="https://DeepDarkWeb.github.io" />
-    <updated>2018-06-14T23:47:08+02:00</updated>
+    <updated>2018-06-15T00:30:35+02:00</updated>
     <author>
         <name>DeepDarkWeb</name>
     </author>
@@ -23,7 +23,7 @@
             <category term="CryptoCurrency"/>
             <category term="BTC"/>
 
-        <updated>2018-06-14T23:13:10+02:00</updated>
+        <updated>2018-06-15T00:16:14+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://DeepDarkWeb.github.io/media/posts/8/cBuy-and-Sell-CryptoCurrencies-on-OpenBazaar-Cryptolistings.gif" alt="Buy and Sell CryptoCurrencies on OpenBazaar" />
@@ -60,8 +60,9 @@
         <id>https://DeepDarkWeb.github.io/how-to-install-tor-on-macos-tutorial/</id>
             <category term="macOS"/>
             <category term="Tor"/>
+            <category term="Privacy"/>
 
-        <updated>2018-06-14T06:49:01+02:00</updated>
+        <updated>2018-06-15T00:29:16+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://DeepDarkWeb.github.io/media/posts/3/tor-logo.png" alt="How to install Tor on macOS - Tutorial" />

@@ -27,7 +27,7 @@
                    "BTC"
             ],
             "date_published": "2018-06-14T22:38:47+02:00",
-            "date_modified": "2018-06-14T23:13:10+02:00"
+            "date_modified": "2018-06-15T00:16:14+02:00"
         },
         {
             "id": "https://DeepDarkWeb.github.io/How-to-install-Tor-on-Windows-macOS-iOS-Android-and-Linux/",
@@ -56,10 +56,11 @@
             },
             "tags": [
                    "macOS",
-                   "Tor"
+                   "Tor",
+                   "Privacy"
             ],
             "date_published": "2018-06-13T19:57:02+02:00",
-            "date_modified": "2018-06-14T06:49:01+02:00"
+            "date_modified": "2018-06-15T00:29:16+02:00"
         },
         {
             "id": "https://DeepDarkWeb.github.io/how-to-browse-the-web-anonymously-for-free-tor-browser/",
