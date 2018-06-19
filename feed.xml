@@ -3,12 +3,35 @@
     <title>deepdarkweb</title>
     <link href="https://DeepDarkWeb.github.io/feed.xml" rel="self" />
     <link href="https://DeepDarkWeb.github.io" />
-    <updated>2018-06-19T10:26:45+02:00</updated>
+    <updated>2018-06-19T13:11:41+02:00</updated>
     <author>
         <name>DeepDarkWeb</name>
     </author>
     <id>https://DeepDarkWeb.github.io</id>
 
+    <entry>
+        <title>How to install Tor on iOS (iPhone/iPad) - Tutorial</title>
+        <author>
+            <name>DeepDarkWeb</name>
+        </author>
+        <link href="https://DeepDarkWeb.github.io/How-to-install-Tor-on-iOS-iPhone-iPad-Tutorial/"/>
+        <id>https://DeepDarkWeb.github.io/How-to-install-Tor-on-iOS-iPhone-iPad-Tutorial/</id>
+            <category term="iOS"/>
+            <category term="Tor Browser"/>
+            <category term="Tor"/>
+            <category term="Privacy"/>
+            <category term="Onion Browser"/>
+            <category term="Darknet"/>
+
+        <updated>2018-06-19T13:10:40+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://DeepDarkWeb.github.io/media/posts/9/Onion-Browser-iOS-Icon.jpg" alt="Onion Browser - How to install Tor on iOS (iPhone/iPad) - Tutorial" />
+                    To install Tor on iOS (iPhone/iPad), you just need to install the Onion Browser. In fact, the recommended way (by the Tor Project) is to use the Onion Browser on your iOS device (iPhone/iPad). At the moment there is no other way to just install&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Buy and Sell CryptoCurrencies on OpenBazaar</title>
         <author>
@@ -37,12 +60,12 @@
         <author>
             <name>DeepDarkWeb</name>
         </author>
-        <link href="https://DeepDarkWeb.github.io/How-to-install-Tor-on-Windows-macOS-iOS-Android-and-Linux/"/>
-        <id>https://DeepDarkWeb.github.io/How-to-install-Tor-on-Windows-macOS-iOS-Android-and-Linux/</id>
+        <link href="https://DeepDarkWeb.github.io/how-to-install-tor-on-windows-macos-ios-android-and-linux/"/>
+        <id>https://DeepDarkWeb.github.io/how-to-install-tor-on-windows-macos-ios-android-and-linux/</id>
             <category term="Tor"/>
             <category term="Privacy"/>
 
-        <updated>2018-06-14T06:50:31+02:00</updated>
+        <updated>2018-06-19T12:07:35+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://DeepDarkWeb.github.io/media/posts/7/tor-logo.png" alt="How to install Tor on Windows, macOS, iOS, Android and Linux" />
@@ -62,7 +85,7 @@
             <category term="Tor"/>
             <category term="Privacy"/>
 
-        <updated>2018-06-15T00:29:16+02:00</updated>
+        <updated>2018-06-19T12:09:18+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://DeepDarkWeb.github.io/media/posts/3/tor-logo.png" alt="How to install Tor on macOS - Tutorial" />
