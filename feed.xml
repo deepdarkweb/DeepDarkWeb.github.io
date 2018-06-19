@@ -3,12 +3,54 @@
     <title>deepdarkweb</title>
     <link href="https://DeepDarkWeb.github.io/feed.xml" rel="self" />
     <link href="https://DeepDarkWeb.github.io" />
-    <updated>2018-06-19T13:11:41+02:00</updated>
+    <updated>2018-06-19T17:56:23+02:00</updated>
     <author>
         <name>DeepDarkWeb</name>
     </author>
     <id>https://DeepDarkWeb.github.io</id>
 
+    <entry>
+        <title>Tor Browser Direct Download Links - Windows</title>
+        <author>
+            <name>DeepDarkWeb</name>
+        </author>
+        <link href="https://DeepDarkWeb.github.io/Tor-Browser-Direct-Download-Links-Windows/"/>
+        <id>https://DeepDarkWeb.github.io/Tor-Browser-Direct-Download-Links-Windows/</id>
+            <category term="Windows"/>
+            <category term="Tor Browser"/>
+            <category term="Privacy"/>
+            <category term="Direct Download Link"/>
+            <category term="Darknet"/>
+
+        <updated>2018-06-19T15:53:26+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://DeepDarkWeb.github.io/media/posts/11/Tor-Browser-Icon.jpg" alt="Tor Browser Direct Download Links - Windows - English (en-US), العربية (ar), Deutsch (de), Español (es-ES), فارسی (fa), Français (fr), Italiano (it), 日本 (ja), Korean (ko), Nederlands (nl), Polish (pl), Português (pt-BR), Русский (ru), Türkçe (tr), Vietnamese (vi), 简体字 (zh-CN)" />
+                    Tor Browser Direct Download Links - Windows: Direct Links for the Stable release version of the Tor Browser Bundle for Windows: Attention: Use the Tor Browser / Onion Button right after the installation to update the Tor Browser Bundle to the latest available stable release!&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Tor Browser Direct Download Links</title>
+        <author>
+            <name>DeepDarkWeb</name>
+        </author>
+        <link href="https://DeepDarkWeb.github.io/Tor-Browser-Direct-Download-Links/"/>
+        <id>https://DeepDarkWeb.github.io/Tor-Browser-Direct-Download-Links/</id>
+            <category term="Tor Browser"/>
+            <category term="Privacy"/>
+            <category term="Direct Download Link"/>
+
+        <updated>2018-06-19T15:52:32+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://DeepDarkWeb.github.io/media/posts/10/Tor-powering-digital-resistance.jpeg" alt="Tor Browser Direct Download Links - Windows - macOS - iOS - Android" />
+                    Overview of all available Tor Browser Direct Download Links:Tor Browser Direct Download Links for Windows.Tor Browser Direct Download Links for macOS.Tor Browser Direct Download Links for iOS.Tor Browser Direct Download Links for Android.
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How to install Tor on iOS (iPhone/iPad) - Tutorial</title>
         <author>

@@ -10,6 +10,42 @@
     },
     "items": [
         {
+            "id": "https://DeepDarkWeb.github.io/Tor-Browser-Direct-Download-Links-Windows/",
+            "url": "https://DeepDarkWeb.github.io/Tor-Browser-Direct-Download-Links-Windows/",
+            "title": "Tor Browser Direct Download Links - Windows",
+            "summary": "Tor Browser Direct Download Links - Windows: Direct Links for the Stable release version of the Tor Browser Bundle for Windows: Attention: Use the Tor Browser / Onion Button right after the installation to update the Tor Browser Bundle to the latest available stable release!&hellip;",
+            "image": "https://DeepDarkWeb.github.io/media/posts/11/Tor-Browser-Icon.jpg",
+            "author": {
+                "name": "DeepDarkWeb"
+            },
+            "tags": [
+                   "Windows",
+                   "Tor Browser",
+                   "Privacy",
+                   "Direct Download Link",
+                   "Darknet"
+            ],
+            "date_published": "2018-06-19T13:32:27+02:00",
+            "date_modified": "2018-06-19T15:53:26+02:00"
+        },
+        {
+            "id": "https://DeepDarkWeb.github.io/Tor-Browser-Direct-Download-Links/",
+            "url": "https://DeepDarkWeb.github.io/Tor-Browser-Direct-Download-Links/",
+            "title": "Tor Browser Direct Download Links",
+            "summary": "Overview of all available Tor Browser Direct Download Links:Tor Browser Direct Download Links for Windows.Tor Browser Direct Download Links for macOS.Tor Browser Direct Download Links for iOS.Tor Browser Direct Download Links for Android.",
+            "image": "https://DeepDarkWeb.github.io/media/posts/10/Tor-powering-digital-resistance.jpeg",
+            "author": {
+                "name": "DeepDarkWeb"
+            },
+            "tags": [
+                   "Tor Browser",
+                   "Privacy",
+                   "Direct Download Link"
+            ],
+            "date_published": "2018-06-19T13:31:47+02:00",
+            "date_modified": "2018-06-19T15:52:32+02:00"
+        },
+        {
             "id": "https://DeepDarkWeb.github.io/How-to-install-Tor-on-iOS-iPhone-iPad-Tutorial/",
             "url": "https://DeepDarkWeb.github.io/How-to-install-Tor-on-iOS-iPhone-iPad-Tutorial/",
             "title": "How to install Tor on iOS (iPhone/iPad) - Tutorial",
