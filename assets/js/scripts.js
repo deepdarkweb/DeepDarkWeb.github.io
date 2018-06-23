@@ -24,30 +24,9 @@
     });
 
     // iOS :hover fix
-    document.addEventListener("touchend", function() {});
+    document.addEventListener("touchend", function() {}); 
 
-    // EU Cookie Law Bar
-    $(window).on("load", function () {
-        var cookieBar = $('.js-cookie-bar');
-
-        if (!cookieBar.length) {
-            return;
-        }
-
-        var cookieBarClose = cookieBar.find('.cookie-bar__close');
-
-        cookieBarClose.on('click', function (event) {
-            event.preventDefault();
-            localStorage.setItem('cookie-bar', true);
-            cookieBar.removeClass('is-sticky');
-        });
-
-        if (!localStorage.getItem('cookie-bar')) {
-            cookieBar.addClass('is-sticky');
-        }
-    });  
-	
-	// Mainmenu improvements
+    // Mainmenu improvements
     $(function ($) {
         var mainmenu = $('.navbar__menu');
         var level0 = mainmenu.children('li');
@@ -101,48 +80,48 @@
         }
     });
 
-	
-	// Sticky menu animation
-	$(function ($) {
-		var menu = $('.js-top');
 
-		if (!menu.length || !menu.hasClass('is-sticky')) {
-			return;
-		}
+    // Sticky menu animation
+    $(function ($) {
+        var menu = $('.js-top');
 
-		var previousScroll = $(window).scrollTop();
-		var menuHeight = menu.outerHeight();
-		var menuTop = 0;
+        if (!menu.length || !menu.hasClass('is-sticky')) {
+            return;
+        }
 
-		$(window).on('scroll', function () {
-			var currentScroll = $(window).scrollTop();
-			var diff = currentScroll - previousScroll;
-			menuTop -= diff / 2;
+        var previousScroll = $(window).scrollTop();
+        var menuHeight = menu.outerHeight();
+        var menuTop = 0;
 
-			if (menuTop < -menuHeight) {
-				menuTop = -menuHeight;
-			}
+        $(window).on('scroll', function () {
+            var currentScroll = $(window).scrollTop();
+            var diff = currentScroll - previousScroll;
+            menuTop -= diff / 2;
 
-			if (menuTop >= 0) {
-				menuTop = 0;
-			}
+            if (menuTop < -menuHeight) {
+                menuTop = -menuHeight;
+            }
 
-			if (currentScroll <= 100) {
-				menu.removeClass('has-bg');
-			} else {
-				menu.addClass('has-bg');
-			}
+            if (menuTop >= 0) {
+                menuTop = 0;
+            }
 
-			if (currentScroll <= 30) {
-				menuTop = 0;
-			}
+            if (currentScroll <= 100) {
+                menu.removeClass('has-bg');
+            } else {
+                menu.addClass('has-bg');
+            }
 
-			menu.css('top', menuTop + 'px');
+            if (currentScroll <= 30) {
+                menuTop = 0;
+            }
 
-			previousScroll = currentScroll;
-		});
-	});
-  
+            menu.css('top', menuTop + 'px');
+
+            previousScroll = currentScroll;
+        });
+    });
+
     // Share buttons pop-up
     $(function () {
         // link selector and pop-up window size
@@ -178,6 +157,6 @@
             return !!popup;
         }
     });
-	
-   
+
+
 })(jQuery);
