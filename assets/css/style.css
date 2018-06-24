@@ -1816,11 +1816,11 @@ textarea {
                background: #2C2E35;      
         }
         .topbar__inner {
-               max-width: calc(50rem + 17rem + 3.85714rem + 1vw);
+               max-width: calc(55rem + 17rem + 3.85714rem + 1vw);
         }
         @media all and (min-width: 56.25em) {
            .content {
-               grid-template-columns: 1fr minmax(auto, 50rem) calc(17rem + 1.28571rem + 0.5vw) 1fr;
+               grid-template-columns: 1fr minmax(auto, 55rem) calc(17rem + 1.28571rem + 0.5vw) 1fr;
            }
         }	
        .blur-up { 
