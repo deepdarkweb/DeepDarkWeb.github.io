@@ -10,6 +10,25 @@
     },
     "items": [
         {
+            "id": "https://DeepDarkWeb.github.io/How-to-install-Tor-on-Windows-without-the-Tor-Browser-running-Tutorial/",
+            "url": "https://DeepDarkWeb.github.io/How-to-install-Tor-on-Windows-without-the-Tor-Browser-running-Tutorial/",
+            "title": "How to install Tor on Windows without the Tor Browser running - Tutorial",
+            "summary": "These are the installation instructions for installing Tor on Windows without the need to have the Tor Browser Bundle (TBB) running all the time as well. Running Tor as a service on Windows separately from the Tor Browser Bundle is only usefull for users who want&hellip;",
+            "image": "https://DeepDarkWeb.github.io/media/posts/19/tor-logo.png",
+            "author": {
+                "name": "DeepDarkWeb"
+            },
+            "tags": [
+                   "Windows",
+                   "Tutorial",
+                   "Tor",
+                   "Privacy",
+                   "Darknet"
+            ],
+            "date_published": "2018-06-24T11:08:39+02:00",
+            "date_modified": "2018-06-24T12:24:33+02:00"
+        },
+        {
             "id": "https://DeepDarkWeb.github.io/Tor-Browser-Direct-Download-Links-Windows/",
             "url": "https://DeepDarkWeb.github.io/Tor-Browser-Direct-Download-Links-Windows/",
             "title": "Tor Browser Direct Download Links - Windows",
@@ -56,6 +75,7 @@
             },
             "tags": [
                    "iOS",
+                   "Tutorial",
                    "Tor Browser",
                    "Tor",
                    "Privacy",
@@ -63,7 +83,7 @@
                    "Darknet"
             ],
             "date_published": "2018-06-19T12:23:06+02:00",
-            "date_modified": "2018-06-19T13:10:40+02:00"
+            "date_modified": "2018-06-24T12:29:08+02:00"
         },
         {
             "id": "https://DeepDarkWeb.github.io/buy-and-sell-cryptocurrencies-on-openbazaar/",
@@ -90,17 +110,18 @@
             "id": "https://DeepDarkWeb.github.io/how-to-install-tor-on-windows-macos-ios-android-and-linux/",
             "url": "https://DeepDarkWeb.github.io/how-to-install-tor-on-windows-macos-ios-android-and-linux/",
             "title": "How to install Tor on Windows, macOS, iOS, Android and Linux",
-            "summary": "How to install Tor on Windows, macOS, iOS, Android and Linux: Windows: How to install Tor on Windows. macOS: How to install Tor on macOS. iOS: How to install Tor on iOS (iPhone/iPad). Android: How to install Tor on Android. Linux: How to install Tor&hellip;",
+            "summary": "How to install Tor on Windows, macOS, iOS, Android and Linux: Windows: macOS: How to install Tor on macOS. iOS: Android: How to install Tor on Android. Linux: How to install Tor on Debian. How to install Tor on Ubuntu.",
             "image": "https://DeepDarkWeb.github.io/media/posts/7/tor-logo.png",
             "author": {
                 "name": "DeepDarkWeb"
             },
             "tags": [
+                   "Tutorial",
                    "Tor",
                    "Privacy"
             ],
             "date_published": "2018-06-14T06:44:31+02:00",
-            "date_modified": "2018-06-19T12:07:35+02:00"
+            "date_modified": "2018-06-24T12:31:01+02:00"
         },
         {
             "id": "https://DeepDarkWeb.github.io/how-to-install-tor-on-macos-tutorial/",
@@ -113,11 +134,12 @@
             },
             "tags": [
                    "macOS",
+                   "Tutorial",
                    "Tor",
                    "Privacy"
             ],
             "date_published": "2018-06-13T19:57:02+02:00",
-            "date_modified": "2018-06-19T12:09:18+02:00"
+            "date_modified": "2018-06-24T12:25:56+02:00"
         },
         {
             "id": "https://DeepDarkWeb.github.io/how-to-browse-the-web-anonymously-for-free-tor-browser/",
@@ -129,12 +151,14 @@
                 "name": "DeepDarkWeb"
             },
             "tags": [
+                   "Tutorial",
                    "Tor Browser",
                    "Tor",
-                   "Privacy"
+                   "Privacy",
+                   "Darknet"
             ],
             "date_published": "2018-06-13T05:55:27+02:00",
-            "date_modified": "2018-06-19T10:25:54+02:00"
+            "date_modified": "2018-06-24T12:25:07+02:00"
         }
     ]
 }
