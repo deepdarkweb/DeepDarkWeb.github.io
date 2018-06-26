@@ -3,12 +3,32 @@
     <title>deepdarkweb</title>
     <link href="https://DeepDarkWeb.github.io/feed.xml" rel="self" />
     <link href="https://DeepDarkWeb.github.io" />
-    <updated>2018-06-26T13:36:43+02:00</updated>
+    <updated>2018-06-26T15:46:00+02:00</updated>
     <author>
         <name>DeepDarkWeb</name>
     </author>
     <id>https://DeepDarkWeb.github.io</id>
 
+    <entry>
+        <title>The Tor Hidden Wiki - Darknet Hidden Wiki</title>
+        <author>
+            <name>DeepDarkWeb</name>
+        </author>
+        <link href="https://DeepDarkWeb.github.io/the-tor-hidden-wiki-darknet-hidden-wiki/"/>
+        <id>https://DeepDarkWeb.github.io/the-tor-hidden-wiki-darknet-hidden-wiki/</id>
+            <category term="Tor"/>
+            <category term="Onion Service"/>
+            <category term="Darknet"/>
+
+        <updated>2018-06-26T15:42:27+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://DeepDarkWeb.github.io/media/posts/21/The-Tor-Hidden-Wiki-Darknet-Hidden-Wiki-Logo.png" alt="The Tor Hidden Wiki - Darknet Hidden Wiki - Logo" />
+                    The Hidden Wiki is the name of several censorship-resistant "wikis" hosted as Tor hidden services / onion services that serve as a directory of links to other .onion sites. Anyone can anonymously edit a Hidden Wiki after registering on the site and add their own&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How to install Tor on Windows without the Tor Browser running - Tutorial</title>
         <author>
