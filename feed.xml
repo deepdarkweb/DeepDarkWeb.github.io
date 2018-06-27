@@ -3,12 +3,52 @@
     <title>deepdarkweb</title>
     <link href="https://DeepDarkWeb.github.io/feed.xml" rel="self" />
     <link href="https://DeepDarkWeb.github.io" />
-    <updated>2018-06-27T15:46:30+02:00</updated>
+    <updated>2018-06-27T21:52:20+02:00</updated>
     <author>
         <name>DeepDarkWeb</name>
     </author>
     <id>https://DeepDarkWeb.github.io</id>
 
+    <entry>
+        <title>Tor Browser 7.5.6 Released</title>
+        <author>
+            <name>DeepDarkWeb</name>
+        </author>
+        <link href="https://DeepDarkWeb.github.io/Tor-Browser-7.5.6-Released/"/>
+        <id>https://DeepDarkWeb.github.io/Tor-Browser-7.5.6-Released/</id>
+            <category term="News"/>
+
+        <updated>2018-06-27T21:04:50+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://DeepDarkWeb.github.io/media/posts/25/Tor-Browser.png" alt="Tor Browser 7.5.6 Released" />
+                    The Tor Project released Tor Browser Version 7.5.6. Tor Browser Version 7.5.6 features important security updates to Firefox. In addition, Tor Browser 7.5.6 updates Firefox to 52.9.0esr and includes newer versions of NoScript and HTTPS Everywhere and the latest Tor stable version, 0.3.3.7. This Tor Browser version also contains&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>CryptoCurrency ATM Map - WorldWide</title>
+        <author>
+            <name>DeepDarkWeb</name>
+        </author>
+        <link href="https://DeepDarkWeb.github.io/CryptoCurrency-ATM-Map-World-Wide/"/>
+        <id>https://DeepDarkWeb.github.io/CryptoCurrency-ATM-Map-World-Wide/</id>
+            <category term="Monero"/>
+            <category term="ETH"/>
+            <category term="CryptoCurrency Exchange"/>
+            <category term="CryptoCurrency"/>
+            <category term="BTC"/>
+
+        <updated>2018-06-27T21:15:20+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://DeepDarkWeb.github.io/media/posts/24/CryptoCurrency-ATM-Map-Worldwide.png" alt="CryptoCurrency ATM Map - World Wide" />
+                    Buy CryptoCurrencies (Bitcoin, Monero, Ether, Dash, Litecoin, Zcash) at ATMs around the world.CryptoCurrency ATM Map - WorldWide
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>The Tor Hidden Wiki - Darknet Hidden Wiki</title>
         <author>
