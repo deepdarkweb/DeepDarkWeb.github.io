@@ -3,7 +3,7 @@
     <title>deepdarkweb</title>
     <link href="https://DeepDarkWeb.github.io/feed.xml" rel="self" />
     <link href="https://DeepDarkWeb.github.io" />
-    <updated>2018-06-28T20:34:21+02:00</updated>
+    <updated>2018-06-29T07:31:39+02:00</updated>
     <author>
         <name>DeepDarkWeb</name>
     </author>
@@ -28,28 +28,6 @@
         <content></content>
     </entry>
     <entry>
-        <title>CryptoCurrency ATM Map - WorldWide</title>
-        <author>
-            <name>DeepDarkWeb</name>
-        </author>
-        <link href="https://DeepDarkWeb.github.io/CryptoCurrency-ATM-Map-World-Wide/"/>
-        <id>https://DeepDarkWeb.github.io/CryptoCurrency-ATM-Map-World-Wide/</id>
-            <category term="Monero"/>
-            <category term="ETH"/>
-            <category term="CryptoCurrency Exchange"/>
-            <category term="CryptoCurrency"/>
-            <category term="BTC"/>
-
-        <updated>2018-06-27T21:15:20+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://DeepDarkWeb.github.io/media/posts/24/CryptoCurrency-ATM-Map-Worldwide.png" alt="CryptoCurrency ATM Map - World Wide" />
-                    Buy CryptoCurrencies (Bitcoin, Monero, Ether, Dash, Litecoin, Zcash) at ATMs around the world.CryptoCurrency ATM Map - WorldWide
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
         <title>The Tor Hidden Wiki - Darknet Hidden Wiki</title>
         <author>
             <name>DeepDarkWeb</name>
@@ -60,7 +38,7 @@
             <category term="Onion Service"/>
             <category term="Darknet"/>
 
-        <updated>2018-06-26T15:42:27+02:00</updated>
+        <updated>2018-06-28T21:02:39+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://DeepDarkWeb.github.io/media/posts/21/The-Tor-Hidden-Wiki-Darknet-Hidden-Wiki-Logo.png" alt="The Tor Hidden Wiki - Darknet Hidden Wiki - Logo" />
